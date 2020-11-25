@@ -23,7 +23,7 @@ git clone https://github.com/hosseinkasaiyan/Web-Phishing.git
 install php  https://www.php.net/
 cd Web-Phishing
 pip3 install -r requirements.txt
-python3 Web-tester.py 
+python3 Web-Phishing.py 
 ```
 
 ## Operating Systems Tested
